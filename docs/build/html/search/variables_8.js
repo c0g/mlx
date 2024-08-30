@@ -18,11 +18,11 @@ var searchData=
   ['int8_15',['int8',['../namespacemlx_1_1core.html#a892e934e146dd938d144cee8813ca672',1,'mlx::core']]],
   ['integer_16',['integer',['../namespacemlx_1_1core.html#a074d000f25ae3ed77450e6a5fec4b38b',1,'mlx::core']]],
   ['inv_17',['inv',['../struct_read_writer.html#a773fa8524515bdc2ff8b0e2060741813',1,'ReadWriter']]],
-  ['inv_5f_18',['inv_',['../backend_2metal_2kernels_2fft_8h.html#a23a773ae455da5d0b9b5508ee2e7694b',1,'fft.h']]],
+  ['inv_5f_18',['inv_',['../backend_2metal_2kernels_2fft_8h.html#a7a83318497519ff3ff0141b7d511ed38',1,'fft.h']]],
   ['inv_5falpha_19',['INV_ALPHA',['../struct_m_l_x_scaled_dot_product_attention_params.html#a7461e0e17cdc7d3fed80bb00d58d8644',1,'MLXScaledDotProductAttentionParams']]],
   ['is_20',['iS',['../struct_m_l_x_conv_params.html#a72e1c3b4da0f70622cf18036bbf97fe6',1,'MLXConvParams']]],
   ['is_5farray_5fv_21',['is_array_v',['../namespacemlx_1_1core.html#a01b0d64a75dfa2e95d6c7b5c53d708af',1,'mlx::core']]],
   ['is_5farrays_5fv_22',['is_arrays_v',['../namespacemlx_1_1core.html#a94c1057929b390e5613304afa16dfbda',1,'mlx::core']]],
   ['is_5fmetal_5fatomic_23',['is_metal_atomic',['../atomic_8h.html#a91a8bdcae647947a83c6689d7f252d24',1,'atomic.h']]],
-  ['is_5fpower_5fof_5f2_5f_24',['is_power_of_2_',['../backend_2metal_2kernels_2fft_8h.html#abeb0f8d030ee27c89882b87eed13be2d',1,'fft.h']]]
+  ['is_5fpower_5fof_5f2_5f_24',['is_power_of_2_',['../backend_2metal_2kernels_2fft_8h.html#a2a4df90e329b84ee6c1890ba7c265c9c',1,'fft.h']]]
 ];
