@@ -8,4 +8,5 @@ target_sources(
   ${CMAKE_CURRENT_SOURCE_DIR}/../common/compiled_nocpu.cpp
   ${CMAKE_CURRENT_SOURCE_DIR}/../common/reduce_utils.cpp
   ${CMAKE_CURRENT_SOURCE_DIR}/../common/slicing.cpp
+  ${CMAKE_CURRENT_SOURCE_DIR}/../common/utils.cpp
 )
